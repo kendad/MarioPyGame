@@ -1,0 +1,10 @@
+#1->groundBlock
+groundBlock=(48,0,16,16)
+#2->supriseBlock
+supriseBlock=(96,16,16,16)
+#3->floatingBlock
+floatingBlock=(0,0,16,16)
+#4->obstacleBlock
+obstacleBlock=(80,0,16,16)
+#5->pipes
+pipes=(256,96,32,32)
